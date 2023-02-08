@@ -6,11 +6,11 @@
 
 ## Results
 
-- ![VBA_Challenge_2017](https://user-images.githubusercontent.com/111463407/217474788-0e660420-c21c-4f4b-9ca8-d821a3f2b7c6.png)
+ ![VBA_Challenge_2017](https://user-images.githubusercontent.com/111463407/217474788-0e660420-c21c-4f4b-9ca8-d821a3f2b7c6.png)
 
 As we can see by the green, these select stocks performed well in 2017.
 
--![VBA_Challenge_2018](https://user-images.githubusercontent.com/111463407/217475089-538cb923-8c9c-4076-a12d-6aa42f696ee2.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/111463407/217475089-538cb923-8c9c-4076-a12d-6aa42f696ee2.png)
 
 However, in 2018, the majority of stocks took a hit and tanked.
 
